@@ -1,0 +1,62 @@
+.kotak-cetak{
+    background-color: white;
+    padding: 4px;
+
+}
+.kotak-cetak .button-print{
+    margin-left: 68%;
+}
+
+.kotak-cetak-obat-keluar .btn-refresh{
+    margin-left: 3%;
+    margin-top: 2%;
+}
+.kotak-cetak-obat-keluar.btn-tambah{
+    margin-top: 2%;
+
+}
+.btn-print{
+    margin-left: 35%;
+}
+.kotak-validasi{
+    padding-left: 50%;
+    background-color: white;
+    width: 100%;
+    margin-top: 2%;
+
+}
+.kotak-validasi h3{
+    font-size: 16px;
+}
+.kotak-validasi .button-validasi{
+    width: 100%;
+    background-color: blue;
+    border-radius: 5px;
+    border: 2px 2px solid yellow;
+    margin-top: 2%;
+    padding:6px 10px;
+}
+.kotak-validasi .button-print{
+    margin: 2%;
+    padding: 10px 16px;
+    background-color: blue;
+    margin-left: 10px;
+    width: 25%;
+    border-radius: 3px;
+}
+.kotak-validasi .button-exl{
+    margin: 2%;
+    padding: 10px 16px;
+    background-color: salmon;
+    margin-left: 10px;
+    width: 25%;
+    border-radius: 3px;
+}
+.kotak-validasi .button-pdf{
+    margin: 3%;
+    padding: 10px 16px;
+    background-color: yellow;
+    margin-left: 10px;
+    width: 25%;
+    border-radius: 3px;
+}
